@@ -65,7 +65,6 @@ export function PlayVideo() {
 
   const randomUrls = [
     'https://otieu.com/4/10209209',
-    'https://omg10.com/4/10055984'
   ];
 
   useEffect(() => {
